@@ -1,0 +1,1 @@
+This is a simple test of git. We are adding text to the this file and then we are going be testing some git commands after that.
